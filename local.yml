@@ -12,8 +12,8 @@
   # minemeld_version: master
   # group_permissions: 'u=rwX,g=rX,o=rX'
   # remove comment to set custom repositories
-  # core_repo: "https://github.com/jtschichold/minemeld-core.git"
-  # prototype_repo: "https://github.com/jtschichold/minemeld-node-prototypes.git"
+  core_repo: "https://github.com/TheTrickster42/Minemeld_Python3-core.git"
+  prototype_repo: "https://github.com/TheTrickster42/minemeld-node-prototypes_Python3.git"
   # webui_repo: "https://github.com/jtschichold/minemeld-webui.git"
 
   roles:
